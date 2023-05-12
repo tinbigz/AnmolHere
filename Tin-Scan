@@ -398,11 +398,11 @@ logo = ("""\033[1;32m
 ╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░░░░╚═╝░╚════╝░╚══════╝\033
 __________________×______________________
   
-  Auther   :  ANMOL GAUTAM
+  Auther   :  Tin
  
-  Github   :  Anmollegend
+  Github   :  Tin
 
-  Facebook : ANMOL GAUTAM
+  Facebook : Tin
   
 __________________×______________________\033[1;37m""")
 
